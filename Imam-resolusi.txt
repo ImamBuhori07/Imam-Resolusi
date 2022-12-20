@@ -4,4 +4,4 @@ IMAM Resolusi
 - Belajar Git dan Github
 - Belajar Integrasi API
 - Menguasai Frontend Developer
-- Bercita cita menjadi Seorang Fullstack Developer
+- Menjadi Programmer
