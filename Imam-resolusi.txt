@@ -3,3 +3,5 @@ IMAM Resolusi
 - Belajar Javascript
 - Belajar Git dan Github
 - Belajar Integrasi API
+- Menguasai Frontend Developer
+- Bercita cita menjadi Seorang Fullstack Developer
