@@ -1,5 +1,6 @@
 Rencana Materi Ajar
 - Javascript
+* ES6
 - Api
 - Angular JS
 - GIT
